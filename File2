@@ -5,7 +5,11 @@ public class Maclasse {
 		System.out.println("Bonjour Objis, spécialiste de la formation JAVA ");
 		blabla
 		kakkakkakkaka
+<<<<<<< HEAD
 		test
+=======
+		llllaaaaaa
+>>>>>>> branch 'master' of https://github.com/Skoresby/toil_test.git
 	}
 
 }
