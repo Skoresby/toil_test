@@ -5,6 +5,7 @@ public class Maclasse {
 		System.out.println("Bonjour Objis, spécialiste de la formation JAVA ");
 		blabla
 		kakkakkakkaka
+		test
 	}
 
 }
