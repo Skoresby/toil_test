@@ -3,6 +3,13 @@ public class Maclasse {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Bonjour Objis, spécialiste de la formation JAVA ");
-
+		blabla
+		kakkakkakkaka
+		ooiizyyeuei
+<<<<<<< HEAD
+		test
+=======
+		llllaaaaaa
+>>>>>>> branch 'master' of https://github.com/Skoresby/toil_test.git
 	}
 }
