@@ -18,5 +18,5 @@ public class images_jeu extends JPanel{
 	    } catch (IOException e) {
 	      e.printStackTrace();
 	    }
-}
+	}
 }
